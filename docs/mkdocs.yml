@@ -1,0 +1,17 @@
+site_name: 'auto_mkdocs'
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'black'
+    accent: 'blue'
+  logo: 'https://cdn4.iconfinder.com/data/icons/faces-10/96/Smiley-512.png'
+  favicon: img/favicon.ico
+site_dir: /home/auto_mkdocs/build
+
+pages:
+  - Home: index.md
+  - Another Thing:
+    - First: another/first.md
+    - Second: another/second.md
+  - Something: something.md
