@@ -10,6 +10,6 @@ Note: this will kill whatever is running on docker on port 80
 Many thanks to:
 
 - [mkdocs](https://github.com/mkdocs/mkdocs)
-- [mkdics-material](https://github.com/squidfunk/mkdocs-material)
+- [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 - [Docker - Multistage Builds](https://docs.docker.com/develop/develop-images/multistage-build/)
 - [Nginx](https://hub.docker.com/_/nginx)
