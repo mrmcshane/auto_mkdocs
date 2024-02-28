@@ -9,7 +9,7 @@ theme:
   favicon: img/favicon.ico
 site_dir: /home/auto_mkdocs/build
 
-pages:
+nav:
   - Home: index.md
   - Another Thing:
     - First: another/first.md
