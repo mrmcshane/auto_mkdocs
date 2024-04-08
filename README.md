@@ -4,7 +4,7 @@ This is a multistage docker manifest that automatically builds and deploys your 
 
 To run the example, run `build.sh`
 
-Note: this will kill whatever is running on docker on port 80
+Note: this will kill whatever is running on docker on port 8080
 
 
 Many thanks to:
